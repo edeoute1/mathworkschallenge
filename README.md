@@ -35,3 +35,11 @@ This repository provides an end-to-end signal processing and noise rejection fra
 ├── imu_analysis_demo.m   # Main MATLAB demonstration script
 ├── README.md             # Project documentation
 └── LICENSE               # License file
+
+---
+
+## output
+
+>> imu_analysis_demo
+=== Raw Accelerometer Summary (X-axis) ===
+Mean: -0.0042 | Std: 1.1321 | Min: -2.7041 | Max: 3.0378
